@@ -1,0 +1,586 @@
+[
+  {
+    "slug": "desert-safari-dubai",
+    "name": "Desert Safari Dubai",
+    "tagline": "Custom booking plugin for a Dubai tourism company",
+    "url": "https://dasertsafaridubai.com",
+    "industry": "Tourism",
+    "location": "Dubai, UAE",
+    "year": "2025",
+    "challenge": "Desert Safari Dubai needed a fully automated online booking system to replace manual WhatsApp and email bookings. They offered two tour types, Private and Sharing, with different tiered AED pricing per seat, required admin approval before confirmation, and needed Telr payment gateway integration for UAE card payments.",
+    "solution": [
+      "Built a custom WordPress booking plugin from scratch, no off-the-shelf solution handled the Private/Sharing tour logic",
+      "Tiered AED pricing engine: price per person drops automatically as group size increases",
+      "Admin approval workflow: bookings enter Pending state, email sent to admin, confirmed or rejected with one click",
+      "Automated email notifications to customer and admin at every stage",
+      "Telr payment gateway integration for UAE-based card processing",
+      "WhatsApp contact field on booking form for UAE customer preference",
+      "Full Elementor Pro frontend with mobile-optimised tour detail pages"
+    ],
+    "stack": [
+      "WordPress",
+      "Custom PHP Plugin",
+      "Elementor Pro",
+      "Telr Payment Gateway",
+      "WooCommerce",
+      "SMTP Email"
+    ],
+    "body": "The client was losing bookings because customers had to WhatsApp for pricing, wait for a manual reply, then pay separately. The custom plugin turned this into a fully self-serve experience, select tour, pick date, choose group size, pay online, receive instant confirmation once admin approves."
+  },
+  {
+    "slug": "fastdocnow",
+    "name": "FastDocNow",
+    "tagline": "Telehealth platform for online doctor consultations",
+    "url": "https://fastdocnow.com",
+    "industry": "Healthcare",
+    "location": "USA",
+    "year": "2025",
+    "challenge": "FastDocNow needed a conversion-focused telehealth website that clearly communicates online consultation and prescription services to US patients. Healthcare visitors are cautious, the site had to build trust fast while driving them toward booking an appointment.",
+    "solution": [
+      "Full Elementor Pro build with healthcare-specific layouts and trust signals throughout",
+      "Dedicated service pages for consultations, prescription refills, chronic disease management, and imaging",
+      "Clear booking flow with prominent CTAs above the fold on every page",
+      "Trust builders: licensed provider profiles and patient testimonials",
+      "WP Rocket performance optimisation",
+      "Mobile-first build since majority of telehealth traffic comes from smartphones",
+      "Blog section for SEO targeting healthcare search terms"
+    ],
+    "stack": [
+      "WordPress",
+      "Elementor Pro",
+      "WP Rocket",
+      "Advanced Custom Fields",
+      "SMTP",
+      "Yoast SEO"
+    ],
+    "body": "Healthcare sites face a unique challenge: the visitor is already stressed and needs quick answers. Every unclear CTA and every slow page loses a potential patient. I structured FastDocNow with a clear hierarchy, what you get, who the providers are, how to book, with performance tuning throughout."
+  },
+  {
+    "slug": "getcaremd",
+    "name": "GetCareMD",
+    "tagline": "24/7 online doctor consultations and prescription platform",
+    "url": "https://getcaremd.com",
+    "industry": "Healthcare",
+    "location": "USA",
+    "year": "2025",
+    "challenge": "GetCareMD operates around the clock and needed a site conveying 24/7 availability, licensed medical professionals, and a trustworthy platform for prescription refills and imaging orders, all without a lengthy onboarding process.",
+    "solution": [
+      "Elementor Pro build with strong emphasis on 24/7 availability messaging throughout",
+      "Service architecture: consultations, prescription refills, imaging, each with dedicated landing pages",
+      "Provider credentialing section to build immediate trust",
+      "Conversion-optimised pricing and services pages with clear booking CTAs",
+      "Plugin conflict audit and full resolution on the existing WordPress installation",
+      "Performance pass: image optimisation, cache configuration, CSS cleanup",
+      "Mobile-responsive across all service and booking pages"
+    ],
+    "stack": [
+      "WordPress",
+      "Elementor Pro",
+      "WP Rocket",
+      "Advanced Custom Fields",
+      "Yoast SEO"
+    ],
+    "body": "GetCareMD had legacy plugin conflicts causing layout breaks. I resolved those first, then rebuilt the key service pages with a cleaner architecture and stronger CTA placement. The site now clearly communicates round-the-clock availability and pushes visitors toward the booking flow without friction."
+  },
+  {
+    "slug": "artisan-technologies",
+    "name": "Artisan Technologies",
+    "tagline": "Home and commercial automation website for a US tech company",
+    "url": "https://artisantechnologies.com",
+    "industry": "Tech",
+    "location": "USA",
+    "year": "2025",
+    "challenge": "Artisan Technologies provides residential and commercial smart-home automation but their old site failed to convey the premium nature of their installations. They needed a site that felt as polished as their physical product, with clear residential vs commercial splits and a tutorial resource hub.",
+    "solution": [
+      "Full WordPress and Elementor Pro rebuild from scratch with a clean, modern design",
+      "Split architecture: Residential and Commercial sections each with their own use-case sub-pages",
+      "Gallery section to showcase completed smart-home installations",
+      "Brands page listing compatible home automation hardware",
+      "Tutorial hub to increase time-on-site and establish expertise",
+      "Blog for content marketing targeting smart-home keywords",
+      "Mobile-responsive with clear contact CTAs across all service pages"
+    ],
+    "stack": [
+      "WordPress",
+      "Elementor Pro",
+      "Advanced Custom Fields",
+      "WP Rocket",
+      "Yoast SEO"
+    ],
+    "body": "Smart home companies sell a feeling as much as a product. The Artisan Technologies site needed to match that premium aesthetic. I structured it so a residential homeowner and a commercial property manager can each immediately find their section without the other's content getting in the way."
+  },
+  {
+    "slug": "griffin-resources",
+    "name": "Griffin Resources",
+    "tagline": "HR outsourcing and recruitment platform for US small businesses",
+    "url": "https://griffin-resources.com",
+    "industry": "Business",
+    "location": "USA",
+    "year": "2025",
+    "challenge": "Griffin Resources provides HR outsourcing, payroll, recruiting, and marketing services to small businesses. Their site needed to clearly communicate a wide service offering while making time-poor business owners quickly understand the value and convert to a consultation.",
+    "solution": [
+      "WordPress and Elementor Pro build with a professional, corporate-but-approachable design",
+      "Service architecture covering payroll, recruiting, coaching, and marketing",
+      "Lead-generation focused layout with consultation CTAs on every page",
+      "Trust section with testimonials and business metrics",
+      "Mobile-responsive design targeting busy business owners on the go",
+      "SEO friendly structure for HR outsourcing keywords",
+      "CRM form integration for lead capture"
+    ],
+    "stack": [
+      "WordPress",
+      "Elementor Pro",
+      "Advanced Custom Fields",
+      "WP Rocket",
+      "Yoast SEO",
+      "WPForms"
+    ],
+    "body": "HR services sites are inherently complex, payroll, compliance, recruiting, and coaching each deserve their own explanation. I built Griffin Resources so a small business owner can identify their pain point in under 10 seconds and reach a consultation CTA without reading walls of text."
+  },
+  {
+    "slug": "griffin-it",
+    "name": "Griffin IT",
+    "tagline": "Hardware supply platform for MSPs and IT service providers",
+    "url": "https://griffin-it.com",
+    "industry": "Tech",
+    "location": "USA",
+    "year": "2025",
+    "challenge": "Griffin IT's unique selling proposition, stock your shelf for free, pay after you sell, was buried in a cluttered old website. They needed a clean, direct site putting this zero-risk model front and centre for IT resellers and MSPs.",
+    "solution": [
+      "Complete WordPress and Elementor rebuild with the unique stock model as the hero message",
+      "Clear above-the-fold value proposition: stock, sell, then pay",
+      "Service and product category pages for MSP hardware solutions",
+      "Designed for a B2B audience: IT resellers and managed service providers",
+      "Lead capture forms for partnership and wholesale enquiries",
+      "Performance optimisation across the WordPress installation",
+      "Plugin audit and conflict resolution"
+    ],
+    "stack": [
+      "WordPress",
+      "Elementor Pro",
+      "WP Rocket",
+      "Advanced Custom Fields",
+      "WPForms"
+    ],
+    "body": "The pay-after-you-sell model is genuinely disruptive in IT hardware supply. That message was lost on the old site. I rebuilt Griffin IT with that headline front and centre, supporting pages explaining the process in simple terms for a busy IT reseller."
+  },
+  {
+    "slug": "kk-travels-and-tours",
+    "name": "Kay Kay International Travels",
+    "tagline": "International travel and tours website",
+    "url": "https://kktravelsandtours.com",
+    "industry": "Tourism",
+    "location": "International",
+    "year": "2024",
+    "challenge": "Kay Kay International Travels needed a modern, trust-building website to showcase their international travel packages. The old site was outdated, not mobile friendly, and failed to convey the range and quality of their offerings.",
+    "solution": [
+      "Full WordPress and Elementor Pro rebuild with a travel-inspired modern design",
+      "Tour and package listing pages with pricing, itinerary, and booking information",
+      "Destination pages for major regions covered",
+      "Mobile-first build since majority of travel research happens on smartphones",
+      "Enquiry and booking forms with follow-up email automation",
+      "Visual-heavy layout showcasing destination photography",
+      "Performance optimisation for fast image-heavy loading"
+    ],
+    "stack": [
+      "WordPress",
+      "Elementor Pro",
+      "WP Rocket",
+      "WPForms",
+      "Advanced Custom Fields"
+    ],
+    "body": "Travel websites live or die on visual impact and trust. I built Kay Kay's site with destination photography at the forefront and clear tour information structured to answer every question before enquiring."
+  },
+  {
+    "slug": "bookmyholidays-uk",
+    "name": "Book My Holidays UK",
+    "tagline": "UK holiday booking platform with destinations and services",
+    "url": "https://bookmyholidays.uk",
+    "industry": "Tourism",
+    "location": "United Kingdom",
+    "year": "2024",
+    "challenge": "Book My Holidays UK needed a professional holiday booking website targeting UK travellers, with clear destination listings, service pages for different holiday types, and a smooth enquiry-to-booking flow.",
+    "solution": [
+      "WordPress and Elementor Pro build with a polished, trust-led UK travel aesthetic",
+      "Destination pages covering major holiday regions",
+      "Service sections: package holidays, cruises, city breaks, and tailor-made travel",
+      "About Us and trust sections to differentiate from low-credibility competitors",
+      "Holiday enquiry forms with clear response time commitments",
+      "Blog section for destination guides and SEO",
+      "Mobile-responsive throughout"
+    ],
+    "stack": [
+      "WordPress",
+      "Elementor Pro",
+      "WP Rocket",
+      "Advanced Custom Fields",
+      "WPForms",
+      "Yoast SEO"
+    ],
+    "body": "UK travel consumers are among the most review-conscious in the world. Book My Holidays UK needed to look credible immediately, I focused on trust signals alongside clear destination and package pages that make the enquiry process feel effortless."
+  },
+  {
+    "slug": "al-emirates-tours",
+    "name": "Al Emirates Tours",
+    "tagline": "UAE tour operator website with booking and package listings",
+    "url": "https://alemiratestours.com",
+    "industry": "Tourism",
+    "location": "UAE",
+    "year": "2024",
+    "challenge": "Al Emirates Tours is a UAE tour operator competing in a crowded Dubai tourism market. They needed a professional website showcasing their desert, city, and adventure tours while capturing direct bookings before visitors go to comparison aggregators.",
+    "solution": [
+      "WordPress and Elementor Pro build with UAE-inspired warm premium design",
+      "Tour listing pages: desert safari, city tours, adventure packages, and transfers",
+      "Individual tour pages with itinerary, pricing, inclusions, and exclusions",
+      "WhatsApp integration for direct enquiries, critical for the UAE market",
+      "Enquiry and booking forms for the UAE mobile-dominant audience",
+      "SEO structure targeting Dubai tourism keywords",
+      "Mobile-first build throughout"
+    ],
+    "stack": [
+      "WordPress",
+      "Elementor Pro",
+      "WP Rocket",
+      "WPForms",
+      "WhatsApp Integration",
+      "Yoast SEO"
+    ],
+    "body": "In the UAE tourism market, WhatsApp is as important as a booking form, customers expect to message instantly. I built Al Emirates Tours with WhatsApp CTAs on every tour page alongside traditional forms, giving two conversion channels."
+  },
+  {
+    "slug": "junk-veteran",
+    "name": "Junk Veteran",
+    "tagline": "Local junk removal site for a Massachusetts veteran-owned business",
+    "url": "https://junkveteran.com",
+    "industry": "Services",
+    "location": "Massachusetts, USA",
+    "year": "2024",
+    "challenge": "Junk Veteran is a veteran-owned junk removal company in Massachusetts. They needed a local-SEO-focused site that converts quickly, junk removal is an urgent same-day need. The site had to rank for local search terms and get the phone ringing with minimal friction.",
+    "solution": [
+      "WordPress and Elementor Pro build with local SEO architecture from the start",
+      "Service pages for each junk type: furniture, appliances, construction debris, estate cleanouts",
+      "Location pages targeting Massachusetts cities for local SEO",
+      "Prominent phone number and same-day CTA above the fold on every page",
+      "Veteran-owned trust messaging throughout",
+      "Before and after project gallery to demonstrate quality",
+      "Google Business Profile integration and review display"
+    ],
+    "stack": [
+      "WordPress",
+      "Elementor Pro",
+      "Yoast SEO Local",
+      "WP Rocket",
+      "Advanced Custom Fields"
+    ],
+    "body": "Junk removal is hyper-local and often urgent. Someone needing their garage cleared is not going to read five paragraphs, they need a phone number in three seconds or they call a competitor. I built Junk Veteran with the phone number and service area as the first things a visitor sees."
+  },
+  {
+    "slug": "happy-hearts-childrens-center",
+    "name": "Happy Hearts Children's Center",
+    "tagline": "Daycare and preschool website for a Herndon, Virginia childcare centre",
+    "url": "https://www.happyheartschildrencenter.com",
+    "industry": "Education",
+    "location": "Herndon, Virginia, USA",
+    "year": "2025",
+    "challenge": "Happy Hearts Children's Center is a Herndon-based daycare competing against national chains. Parents researching childcare are making one of the most important decisions of their lives, the site needed to be warm, trustworthy, and immediately answer the questions every parent has about safety, curriculum, and enrollment.",
+    "solution": [
+      "WordPress and WP Rocket build with performance-critical configuration for image-heavy pages",
+      "Warm, friendly design that matches the brand, approachable without being childish",
+      "Program pages: infant care, toddler, preschool, each with age-appropriate curriculum detail",
+      "Tour scheduling CTA prominent on every page",
+      "Parent-facing FAQ covering safety, licensing, staff qualifications, and meals",
+      "Photo gallery of the facility and classrooms",
+      "WP Rocket configuration for image-heavy pages"
+    ],
+    "stack": [
+      "WordPress",
+      "WP Rocket",
+      "Elementor Pro",
+      "Advanced Custom Fields",
+      "WPForms"
+    ],
+    "body": "Parents choosing childcare are reading between the lines of every website element. Happy Hearts answers all of those questions before the parent consciously asks them, through warm imagery, clear staff and licensing information, and an easy tour CTA."
+  },
+  {
+    "slug": "sparktivo",
+    "name": "Sparktivo",
+    "tagline": "Digital agency website for a Dubai and London-based tech company",
+    "url": "https://sparktivo.com",
+    "industry": "Tech",
+    "location": "Dubai, UAE / London, UK",
+    "year": "2025",
+    "challenge": "Sparktivo is a Dubai and London-based digital agency offering AI chatbots, marketing automation, lead generation, and enterprise software. They needed a site that positioned them as a credible tech partner rather than just another web agency.",
+    "solution": [
+      "WordPress and Elementor Pro build with a premium tech-company aesthetic",
+      "Service architecture across AI, automation, e-commerce, enterprise software, and marketing",
+      "Industry-specific tool pages for Cloud, Dev Tools, CRM, ERP, and AI",
+      "Lead generation and automation showcase pages with clear ROI messaging",
+      "Dubai and London dual-market presence messaging",
+      "Blog and SEO section targeting lead generation keywords",
+      "WhatsApp Business API integration for direct B2B enquiries"
+    ],
+    "stack": [
+      "WordPress",
+      "Elementor Pro",
+      "WP Rocket",
+      "Advanced Custom Fields",
+      "Yoast SEO",
+      "WhatsApp API"
+    ],
+    "body": "Tech agencies face a credibility paradox, the more services you offer, the less focused you appear. I structured Sparktivo so each service vertical has its own clean page while the homepage positions the company as a full-stack digital partner."
+  },
+  {
+    "slug": "pacific-valor-law",
+    "name": "Pacific Valor Law",
+    "tagline": "VA disability attorney site for a veteran law firm in Okinawa",
+    "url": "https://pacificvalorlaw.com",
+    "industry": "Legal",
+    "location": "Okinawa, Japan",
+    "year": "2025",
+    "challenge": "Pacific Valor Law is a VA-accredited disability attorney firm in Okinawa serving overseas veterans with disability claims, appeals, and DIC cases. Their website needed to speak directly to veterans living abroad and make the free case review process feel accessible.",
+    "solution": [
+      "WordPress and Elementor Pro build with a professional legal aesthetic that feels approachable to veterans",
+      "Practice area pages for VA disability claims, appeals, DIC, and ratings increases",
+      "Prominent free case review CTA on every page",
+      "VA accreditation and credentials displayed prominently to establish legitimacy",
+      "Overseas veteran-specific messaging addressing unique challenges of filing from abroad",
+      "FAQ section covering the claims process, timelines, and what to expect",
+      "Mobile-responsive build with fast load times for international audiences"
+    ],
+    "stack": [
+      "WordPress",
+      "Elementor Pro",
+      "WP Rocket",
+      "Advanced Custom Fields",
+      "WPForms",
+      "Yoast SEO"
+    ],
+    "body": "Veterans living overseas face a double barrier filing VA claims, distance from the US system and a lack of attorneys who understand their situation. I built their site to speak directly to that audience: credible, clear about the process, and making the first step, a free case review, feel simple."
+  },
+  {
+    "slug": "todd-malloy",
+    "name": "Todd Malloy",
+    "tagline": "Personal brand and philosophy website for a speaker and podcast host",
+    "url": "https://toddmalloy.com",
+    "industry": "Business",
+    "location": "USA",
+    "year": "2025",
+    "challenge": "Todd Malloy is a speaker, podcast host, and philosopher behind a personal growth framework called Toddism. His brand needed a website that communicated the depth of his philosophy while making it easy for listeners, event organisers, and followers to engage.",
+    "solution": [
+      "WordPress and Elementor Pro personal brand build centred on Todd's philosophy and content",
+      "Toddism philosophy page explaining the core principles in an engaging visual layout",
+      "Podcast showcase section with episode listings and guest appearance archive",
+      "Speaker and podcast guest booking section for event organisers",
+      "Blog and content hub for ongoing philosophy content",
+      "Social proof section with media appearances",
+      "Email opt-in integration for audience list building"
+    ],
+    "stack": [
+      "WordPress",
+      "Elementor Pro",
+      "Advanced Custom Fields",
+      "WP Rocket",
+      "WPForms",
+      "Yoast SEO"
+    ],
+    "body": "Personal brand sites for speakers need to convey personality and depth while still being functional. For Todd, the site needed to make you feel his philosophy before you read a single word, then give you clear paths whether you are a fan, a podcast producer, or an event organiser."
+  },
+  {
+    "slug": "thrivewell-solutions",
+    "name": "ThriveWell Solutions",
+    "tagline": "Functional nutrition and detox website for a wellness practitioner",
+    "url": "https://thrivewellsolutions.com",
+    "industry": "Wellness",
+    "location": "USA",
+    "year": "2025",
+    "challenge": "ThriveWell Solutions helps families overcome food sensitivities, gut health issues, and chronic inflammation. The site needed to explain a complex service offering, functional testing, personalised nutrition, and family detox programmes, while building trust with sceptical visitors.",
+    "solution": [
+      "WordPress and Elementor Pro build with a clean, health-focused design",
+      "Service pages covering functional testing, gut health, family detox, and condition-specific support",
+      "Practitioner bio and credentials section to establish authority",
+      "Condition-specific pages: Crohn's, food sensitivities, inflammation, nutritional deficiencies",
+      "Group programme and one-to-one coaching sections with clear enrolment paths",
+      "Client testimonials and results section for social proof",
+      "Email opt-in for wellness content and programme announcements"
+    ],
+    "stack": [
+      "WordPress",
+      "Elementor Pro",
+      "WP Rocket",
+      "Advanced Custom Fields",
+      "WPForms"
+    ],
+    "body": "Functional nutrition is a hard sell online, visitors are often sceptical having tried many other approaches. ThriveWell needed a site that validated the visitor's struggle immediately, explained why functional testing is different, and made Jennifer's expertise feel both credible and human."
+  },
+  {
+    "slug": "hercules-roof-system",
+    "name": "Hercules Roof System",
+    "tagline": "Roofing company website for a Dallas-Fort Worth contractor",
+    "url": "https://herculesdfw.com",
+    "industry": "Services",
+    "location": "Frisco, Texas, USA",
+    "year": "2025",
+    "challenge": "Hercules Roof System is a roofing contractor serving Frisco and the wider DFW area. In a highly competitive local services market, their website needed to be found by local searchers, immediately convey trustworthiness, and convert visitors to quote requests.",
+    "solution": [
+      "WordPress and Elementor Pro build with a strong, professional roofing industry aesthetic",
+      "Residential and commercial roofing service pages",
+      "Local SEO structure targeting Frisco, Plano, McKinney, and surrounding DFW suburbs",
+      "Prominent free quote CTA with phone number above the fold on every page",
+      "Insurance claim assistance page, a major conversion driver for storm damage roofing",
+      "Project gallery and before-after section",
+      "Google reviews integration and trust badge section"
+    ],
+    "stack": [
+      "WordPress",
+      "Elementor Pro",
+      "WP Rocket",
+      "Yoast SEO Local",
+      "Advanced Custom Fields",
+      "WPForms"
+    ],
+    "body": "Roofing sites in Texas compete on credibility after a hailstorm. Hercules needed a site that looked more established and trustworthy than the competition, with local SEO targeting the specific DFW zip codes they serve."
+  },
+  {
+    "slug": "7sky-consultant",
+    "name": "7 Sky Consultant",
+    "tagline": "Study abroad consultancy website for a Lahore-based education agency",
+    "url": "https://7skyconsultant.com",
+    "industry": "Education",
+    "location": "Lahore, Pakistan",
+    "year": "2025",
+    "challenge": "7 Sky Consultancy is a study abroad specialist in Lahore with a strong visa and scholarship track record. They needed a website that converted enquiring students in a highly competitive market where trust and proven results are everything.",
+    "solution": [
+      "WordPress and Elementor Pro build with a professional, aspirational study abroad aesthetic",
+      "Country and university destination pages for UK, USA, Canada, Australia, and Europe",
+      "Results-forward hero section highlighting the consultancy's own visa and scholarship track record",
+      "Step-by-step application process page to reduce perceived complexity",
+      "Student testimonials and success stories from past clients",
+      "Service pages for visa consultation, application support, and scholarship assistance",
+      "WhatsApp and contact form integration for immediate enquiry handling"
+    ],
+    "stack": [
+      "WordPress",
+      "Elementor Pro",
+      "Advanced Custom Fields",
+      "WP Rocket",
+      "WPForms",
+      "Yoast SEO"
+    ],
+    "body": "Study abroad consultancy is built on trust, students are making a life-changing decision. For 7 Sky, I built the site to lead with the consultancy's own track record and then walk the student through exactly what the process looks like."
+  },
+  {
+    "slug": "relocrate",
+    "name": "Relocrate",
+    "tagline": "Eco friendly reusable moving crate rental website for a Denver company",
+    "url": "https://relocrate.com",
+    "industry": "Services",
+    "location": "Denver, Colorado, USA",
+    "year": "2025",
+    "challenge": "Relocrate offers reusable plastic moving crates as a sustainable alternative to cardboard boxes in Denver. The concept is innovative but unfamiliar, most people default to buying cardboard. The website needed to quickly explain the concept, overcome objections, and convert visitors to a crate rental booking.",
+    "solution": [
+      "WordPress and Elementor Pro build with a fresh, eco-focused brand aesthetic",
+      "How it works section explaining the delivery, move, and collection process in three simple steps",
+      "Comparison section: Relocrate vs cardboard boxes, cost, time, environmental impact",
+      "Residential and commercial moving service pages",
+      "Online booking or enquiry form with service area map for Denver coverage",
+      "Environmental impact section to appeal to sustainability-conscious movers",
+      "Pricing page with clear crate count calculator for different home sizes"
+    ],
+    "stack": [
+      "WordPress",
+      "Elementor Pro",
+      "WP Rocket",
+      "Advanced Custom Fields",
+      "WPForms",
+      "Yoast SEO"
+    ],
+    "body": "Relocrate is solving a genuine problem, cardboard boxes are expensive, wasteful, and annoying, but the solution is unfamiliar. I structured it with how-it-works as the primary message, followed immediately by the cardboard comparison to remove the main objection, then a clear booking CTA."
+  },
+  {
+    "slug": "seva-wealth",
+    "name": "Seva Wealth",
+    "tagline": "Wealth management and financial planning website for a US advisory firm",
+    "url": "https://seva-wealth.com",
+    "industry": "Finance",
+    "location": "USA",
+    "year": "2025",
+    "challenge": "Seva Wealth is a financial advisory firm whose name comes from the Sanskrit concept of compassionate service. Their website needed to communicate that philosophy alongside serious financial credentials, attracting clients who want a values-driven advisor.",
+    "solution": [
+      "WordPress and Elementor Pro build with a sophisticated, trust-heavy financial services design",
+      "About and philosophy page communicating the Seva values and advisor background",
+      "Service pages covering wealth management, financial planning, and investment advisory",
+      "Team and credentials section for regulatory trust, critical in financial services",
+      "Calendly integration for direct meeting scheduling from every CTA",
+      "Secure financial planning portal link integration for existing clients",
+      "Compliance-conscious copy and design meeting financial services standards"
+    ],
+    "stack": [
+      "WordPress",
+      "Elementor Pro",
+      "WP Rocket",
+      "Advanced Custom Fields",
+      "Calendly Integration",
+      "WPForms"
+    ],
+    "body": "Financial services websites have a specific credibility challenge, visitors are about to trust someone with their life savings. For Seva Wealth, the values-driven philosophy needed to feel genuine rather than marketed. I built the site so the Seva story leads and the financial credentials follow."
+  },
+  {
+    "slug": "rockbusto-fleet",
+    "name": "RockBusto Fleet",
+    "tagline": "Vehicle inventory website with a custom theme, plugin and filterable grid",
+    "url": "https://rockbustofleet.com",
+    "industry": "Automotive",
+    "location": "USA",
+    "year": "2026",
+    "challenge": "RockBusto sells municipal, fleet and commercial vehicles, pickups, cargo vans, box trucks, EV chassis and step vans, with different pricing for government buyers and businesses. A page-per-vehicle site would have been impossible for the dealer to keep current. They needed structured inventory the team could update from the WordPress admin, with buyers able to filter by body type and fuel and request a quote from any vehicle.",
+    "solution": [
+      "Vehicles as a custom post type with structured ACF fields per model: body type, fuel, cab, upfit, government price and business price",
+      "Filterable inventory grid (All, Box Truck, Cargo Van, EV Chassis, Pickup & Chassis, Step Van, SUV, EV) rendered from the post type, not hand-built",
+      "Reusable vehicle detail and category templates so every new unit gets the same layout automatically",
+      "Custom child theme and a companion plugin (rockbusto-core) holding the inventory logic, so it survives theme updates",
+      "Hero slider driven by the inventory data with per-vehicle View details and Request quote actions",
+      "Quote-request flow and fleet-order enquiry forms with the vehicle pre-filled",
+      "Electric line-up section (Harbinger platform) and incentives content for government and fleet buyers",
+      "Responsive layouts for desktop, tablet and mobile"
+    ],
+    "stack": [
+      "WordPress",
+      "Elementor Pro",
+      "Advanced Custom Fields",
+      "Custom Post Types",
+      "Custom PHP Plugin",
+      "WPForms"
+    ],
+    "body": "The dealer needed to add or edit a vehicle in a minute, not ask a developer. I built the inventory as data, a post type with fields, and let the theme and plugin render the grid, cards and detail pages from it. Filters, pricing labels and quote buttons all read from the same fields, so the site stays consistent as stock changes."
+  },
+  {
+    "slug": "biodynamic-breathwork",
+    "name": "Biodynamic Breathwork",
+    "tagline": "Practitioner directory with an interactive map, plus performance work, for an international training organisation",
+    "url": "https://biodynamicbreath.com",
+    "industry": "Wellness",
+    "location": "International",
+    "year": "2025",
+    "challenge": "The organisation trains and certifies breathwork practitioners worldwide and needed a way to publish and maintain around 173 practitioner profiles, photo, bio, city and coordinates, on their WordPress site, show them on a map visitors could explore, and bring poor PageSpeed scores up without rebuilding the site.",
+    "solution": [
+      "Team Members system built with Advanced Custom Fields and a custom post type: photo, role, city, country and geographic coordinates per profile",
+      "Bulk population of roughly 173 practitioner profiles into the new structure",
+      "Interactive Leaflet map plotting every profile from its stored coordinates, with a directory listing alongside",
+      "Elementor Pro templates on a Hello child theme for the directory, profile and programme pages",
+      "Redirect clean-up and removal of broken legacy URLs",
+      "Performance pass with LiteSpeed Cache and Jetpack Boost: caching rules, critical CSS, image optimisation and script deferral",
+      "PageSpeed moved from roughly 83 (desktop) / 39 (mobile) to 98 / 92 at the time of hand-over",
+      "Ongoing development and maintenance on the live site"
+    ],
+    "stack": [
+      "WordPress",
+      "Elementor Pro",
+      "Advanced Custom Fields",
+      "Custom Post Types",
+      "Leaflet",
+      "LiteSpeed Cache",
+      "Jetpack Boost"
+    ],
+    "body": "A directory of this size only works if it is data first. Each practitioner became a structured record, the map and listing read from those records, and editors add a person without touching a layout. The performance work came second and was measured before and after so the numbers could be trusted. The client has since moved the site to another platform, so the graphic here summarises the build rather than showing today's site."
+  }
+]

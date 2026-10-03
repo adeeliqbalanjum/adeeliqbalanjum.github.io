@@ -1,0 +1,375 @@
+{
+ "site": {
+  "name": "Muhammad Adeel Iqbal",
+  "short": "Adeel Iqbal",
+  "brand": "Muhammad Adeel",
+  "url": "https://adeeliqbalanjum.github.io/adeelatwork",
+  "email": "adeeliqbalajum@gmail.com",
+  "phone": "+92 305 4829714",
+  "wa": "923054829714",
+  "linkedin": "https://linkedin.com/in/adeelatwork/",
+  "github": "https://github.com/adeeliqbalanjum"
+ },
+ "order": [
+  "rockbusto-fleet",
+  "desert-safari-dubai",
+  "biodynamic-breathwork",
+  "al-emirates-tours",
+  "fastdocnow",
+  "getcaremd",
+  "artisan-technologies",
+  "seva-wealth",
+  "griffin-resources",
+  "griffin-it",
+  "pacific-valor-law",
+  "bookmyholidays-uk",
+  "kk-travels-and-tours",
+  "happy-hearts-childrens-center",
+  "thrivewell-solutions",
+  "hercules-roof-system",
+  "junk-veteran",
+  "relocrate",
+  "sparktivo",
+  "todd-malloy",
+  "7sky-consultant"
+ ],
+ "lines": {
+  "rockbusto-fleet": "The dealer could not keep a page per vehicle current. Inventory now lives as records the team edits, with a filterable grid and quote requests.",
+  "desert-safari-dubai": "Bookings were happening over WhatsApp. Now each tour has group pricing, an approval step and a custom reviews widget.",
+  "biodynamic-breathwork": "173 practitioner profiles on an interactive map, and mobile PageSpeed taken from 39 to 92.",
+  "al-emirates-tours": "Every tour page was being built by hand. One template and a tour post type, with a live price booking form.",
+  "fastdocnow": "Nervous patients needed to trust a telehealth brand fast. Clear service pages and a consultation flow.",
+  "getcaremd": "A 24/7 online doctor service that had to explain itself in seconds on a phone.",
+  "artisan-technologies": "Smart home and AV for homes, businesses and government, organised so each buyer finds their own route.",
+  "seva-wealth": "A financial adviser site where a calm first impression and an easy way to book a call matter most.",
+  "griffin-resources": "HR outsourcing for small businesses, restructured around services, trust and one enquiry route.",
+  "griffin-it": "Hardware supply for MSPs and IT providers, built for fast scanning by technical buyers.",
+  "pacific-valor-law": "A veterans disability attorney who needed a free case review to be the obvious next step.",
+  "bookmyholidays-uk": "Destinations and services laid out so a holiday enquiry takes one form.",
+  "kk-travels-and-tours": "An international tours site with enquiry routes for every package.",
+  "happy-hearts-childrens-center": "Parents choosing a daycare want reassurance and a tour booking, in that order.",
+  "thrivewell-solutions": "A functional nutrition practice with programmes explained in plain language.",
+  "hercules-roof-system": "A Dallas Fort Worth roofer who needed local search visibility and quote requests.",
+  "junk-veteran": "A veteran owned junk removal business with a quote route on every screen.",
+  "relocrate": "Reusable moving crate rental in Denver, explained simply enough to order from a phone.",
+  "sparktivo": "A digital agency site serving Dubai and London from one build.",
+  "todd-malloy": "A speaker and podcast host who needed one home for talks, episodes and enquiries.",
+  "7sky-consultant": "A study abroad consultancy with country pages and a counselling enquiry route."
+ },
+ "overrides": {
+  "rockbusto-fleet": {
+   "h1": "A vehicle dealer that updates its own inventory in a minute.",
+   "flow": true,
+   "result": "The team adds or edits a vehicle from the WordPress admin. No layout work, no developer."
+  },
+  "desert-safari-dubai": {
+   "h1": "From bookings over WhatsApp to a tour you can book and pay for yourself.",
+   "tagline": "Online tour booking with group pricing and a custom reviews widget",
+   "challenge": "Desert Safari Dubai was taking bookings by WhatsApp and email. Customers had to message for a price, wait for a reply, then pay separately, and bookings were being lost in the gap. They run private and shared tours with pricing that changes by group size, and they wanted every booking checked by a person before it was confirmed.",
+   "solution": [
+    "Tour pages on WooCommerce with a booking form for date, tour type and group size",
+    "Group pricing that lowers the price per person as the group grows",
+    "An admin approval step: new bookings wait as pending until the team confirms or rejects them",
+    "Automatic emails to the customer and the team at each stage",
+    "A custom reviews widget built for Elementor, with its own admin screen for moderating reviews",
+    "A WhatsApp field on the booking form, because that is how UAE customers prefer to talk",
+    "Mobile first tour pages built in Elementor Pro"
+   ],
+   "stack": [
+    "WordPress",
+    "WooCommerce",
+    "Custom PHP",
+    "Elementor Pro",
+    "SMTP Email"
+   ],
+   "body": "The client was losing bookings because customers had to WhatsApp for pricing, wait for a manual reply, then pay separately. The new flow turned this into a self serve experience: choose a tour, pick a date, set the group size, book online, and get a confirmation once the team approves.",
+   "result": "Pick a tour, a date and a group size, then book online. The owner manages reviews without a third party app.",
+   "extraShot": [
+    "inner/desert-safari-dubai-reviews",
+    "The custom reviews widget"
+   ],
+   "video": {
+    "file": "desert-safari-testimonial.mp4",
+    "poster": "testimonial-desert-safari",
+    "len": "0:34",
+    "who": "the owner of Desert Safari Dubai"
+   }
+  },
+  "biodynamic-breathwork": {
+   "h1": "173 practitioners on a map, and a mobile score that went from 39 to 92.",
+   "result": "Editors add a person without touching a layout. PageSpeed moved from 83 and 39 to 98 and 92 at hand over.",
+   "offline": "The client has since moved this site to another platform, so there is no live link. The graphic above summarises the build."
+  },
+  "7sky-consultant": {
+   "offline": "This site was offline when I last checked, so there is no live link or screenshot yet."
+  }
+ },
+ "services": [
+  {
+   "slug": "woocommerce-checkout-fix",
+   "nav": "Fix",
+   "title": "WooCommerce checkout fix and WordPress troubleshooting",
+   "desc": "Checkout not completing, payments failing, a store that broke after an update. I find the real cause, fix it and test a real order. Free first look, fixed quote.",
+   "h1": "WooCommerce checkout not working? I find the cause and fix it.",
+   "lede": "Payments failing, orders not arriving, a store that broke after an update. Send me the URL and what is happening. I take a first look for free, tell you what I think is wrong, and give you a fixed price before I touch anything.",
+   "cta": "Tell me what's broken",
+   "wa": "Hi Adeel, something on my store is broken. My site: ",
+   "reassure": [
+    "Backup before anything",
+    "Fixed quote first",
+    "Tested with a real order"
+   ],
+   "causesTitle": "What you are seeing, and what is usually behind it.",
+   "causesLede": "These six cover most of the messages I get. If yours is not here, send it anyway.",
+   "causes": [
+    [
+     "credit-card",
+     "Checkout spins and no order is created",
+     "Gateway keys or test mode, a script error from another plugin, or a cached checkout page.",
+     "Gateway settings and logs, the browser console, cache and CDN rules for cart and checkout."
+    ],
+    [
+     "refresh-cw",
+     "It broke right after an update",
+     "Two plugins hooking the same thing, or a theme template that overrides an old WooCommerce file.",
+     "A staging copy with plugins switched off one by one, and template overrides flagged as out of date."
+    ],
+    [
+     "mail",
+     "Orders arrive but the emails do not",
+     "Mail sent from the server without authentication, so inboxes quietly reject it.",
+     "SMTP setup, sender domain records, WooCommerce email settings, then a test order."
+    ],
+    [
+     "smartphone",
+     "Cart or checkout is broken on a phone",
+     "Fixed widths, builder breakpoints nobody set, or a sticky element covering the button.",
+     "Real device widths, Elementor responsive settings and overlapping elements."
+    ],
+    [
+     "zap",
+     "There has been a critical error on this website",
+     "A PHP error from a plugin, the theme, or a PHP version change on the host.",
+     "The debug log, the last thing that changed, and PHP version against plugin requirements."
+    ],
+    [
+     "gauge",
+     "Checkout is slow and people give up",
+     "Heavy scripts on every page, no caching rules, oversized images.",
+     "What loads on cart and checkout, caching exclusions and image weight."
+    ]
+   ],
+   "inclTitle": "What you get with every fix.",
+   "incl": [
+    [
+     "database",
+     "Backup first",
+     "Nothing is touched until a backup exists. If anything goes sideways, we are back where we started in minutes."
+    ],
+    [
+     "layers",
+     "Staging where possible",
+     "If your host offers a staging copy I work there, then move the fix across once it is proven."
+    ],
+    [
+     "search",
+     "The cause, not a patch",
+     "I keep going until I know why it broke. A patch that hides the symptom just breaks again next month."
+    ],
+    [
+     "shield-check",
+     "Tested end to end",
+     "For store problems that means a real test order: cart, payment, confirmation page and emails."
+    ],
+    [
+     "file-text",
+     "A written note",
+     "A short plain summary of what was wrong, what I changed and what to keep an eye on."
+    ],
+    [
+     "message-circle",
+     "No surprises",
+     "If it turns out bigger than it looked, I stop and tell you before I continue."
+    ]
+   ],
+   "faq": [
+    [
+     "What does a fix cost?",
+     "Most single fixes land between $45 and $140, depending on how deep the cause goes. You get a fixed quote before any work starts, and the first look is free."
+    ],
+    [
+     "How fast can you fix it?",
+     "Simple fixes are often done the same day once I have access. If the cause runs deeper, I tell you the realistic time before I start."
+    ],
+    [
+     "What access do you need?",
+     "Usually just a WordPress admin login. Hosting access only when the problem is on the server side. Change the password when we are done."
+    ],
+    [
+     "What if you cannot fix it?",
+     "Then I say so, tell you what I found and who can help, and I do not charge for a fix I did not deliver."
+    ],
+    [
+     "What do you not do?",
+     "Malware clean up and server administration. If that is where the problem sits, I will identify it and hand it to your host with the details they need."
+    ]
+   ]
+  },
+  {
+   "slug": "wordpress-website-build",
+   "nav": "Build",
+   "title": "WordPress and WooCommerce website builds your team can edit",
+   "desc": "Business sites in Elementor Pro, WooCommerce stores, booking flows, inventories and directories. Built from your Figma or PSD, with content in fields so your team can edit it.",
+   "h1": "A WordPress site your team can edit without calling a developer.",
+   "lede": "Business sites in Elementor Pro, WooCommerce stores and booking flows, built from your Figma or PSD design or from references you like. Content lives in fields and templates, so changing a price, a photo or a whole page is a two minute job for your team.",
+   "cta": "Start a build",
+   "wa": "Hi Adeel, I need a website built. Here is what I have in mind: ",
+   "reassure": [
+    "A staging build you review",
+    "Checked on phone, tablet and desktop",
+    "Handover included"
+   ],
+   "inclTitle": "What I build.",
+   "incl": [
+    [
+     "layout-template",
+     "Figma or PSD to Elementor Pro",
+     "Your approved design, rebuilt as editable WordPress pages that match it closely on every screen."
+    ],
+    [
+     "shopping-cart",
+     "WooCommerce stores",
+     "Products, payments, shipping and a checkout that has been tested with a real order before launch."
+    ],
+    [
+     "calendar-check",
+     "Booking and enquiry flows",
+     "Tours, consultations, quotes. Forms that calculate prices, route enquiries and send the right emails."
+    ],
+    [
+     "list-filter",
+     "Inventories and directories",
+     "Vehicles, people, properties. One record per item with ACF and custom post types, and the pages draw themselves."
+    ],
+    [
+     "code-xml",
+     "Custom features",
+     "When no plugin fits: custom PHP, Elementor widgets and small companion plugins that survive theme updates."
+    ],
+    [
+     "gauge",
+     "Speed and search basics",
+     "Caching rules, image weight, clean headings and metadata, so the site starts life fast and findable."
+    ]
+   ],
+   "needTitle": "What I need from you.",
+   "need": [
+    "A design file, or two or three sites you like and why",
+    "Your page list, even a rough one",
+    "Logo, brand colours and any photos you have",
+    "The text, or notes I can shape into sections",
+    "Access to your hosting, or tell me and I will work on staging first"
+   ],
+   "faq": [
+    [
+     "What does a site cost?",
+     "Business sites start around $300 and go up with the number of pages and any custom features such as booking, inventory or a store. You get a fixed quote once I have seen the design and the page list."
+    ],
+    [
+     "How long does a build take?",
+     "The business sites in my portfolio took three to six weeks from content to launch. A store or a custom feature adds time, and I tell you how much before we start."
+    ],
+    [
+     "Do I need to buy plugin licences?",
+     "Premium plugins such as Elementor Pro, WP Rocket or Gravity Forms need a licence in your name. If you would rather not, I use free alternatives and tell you what you give up."
+    ],
+    [
+     "Can my team edit the site afterwards?",
+     "That is the point. Content goes into fields and templates, and you get a short handover showing where everything lives."
+    ],
+    [
+     "Do you host the site?",
+     "No. I build on staging, then launch on your hosting, so you own everything from day one."
+    ]
+   ]
+  },
+  {
+   "slug": "white-label-wordpress-developer",
+   "nav": "Partner",
+   "title": "White label WordPress developer for agencies",
+   "desc": "Extra WordPress capacity for agencies without hiring. Figma to Elementor Pro, ACF and custom post types, WooCommerce, fixes and maintenance, all under your brand.",
+   "h1": "A white label WordPress developer for your agency.",
+   "lede": "Your designs are signed off and your team is full. I step into your process, build it in Elementor Pro with ACF and custom post types, and stay invisible to your client. I learned this work inside agencies, so deadlines, handovers and feedback rounds are normal to me.",
+   "cta": "Talk capacity",
+   "wa": "Hi Adeel, I run an agency and need WordPress capacity. Here is what we have coming up: ",
+   "reassure": [
+    "Under your brand",
+    "Inside your tools and process",
+    "Happy to sign your NDA"
+   ],
+   "inclTitle": "Work you can hand me.",
+   "incl": [
+    [
+     "layout-template",
+     "Figma to Elementor Pro",
+     "Approved designs rebuilt as clean, editable pages that stay close to the file on every breakpoint."
+    ],
+    [
+     "layers",
+     "Templates your team can extend",
+     "Theme builder templates, global styles and ACF fields, so your team adds pages without breaking the system."
+    ],
+    [
+     "shopping-cart",
+     "WooCommerce and custom features",
+     "Stores, booking flows, filterable listings and the custom PHP that glues them together."
+    ],
+    [
+     "wrench",
+     "Fixes on client sites",
+     "Plugin conflicts, broken layouts, checkout problems and the urgent things that land on a Friday."
+    ],
+    [
+     "life-buoy",
+     "Overflow and maintenance",
+     "Updates, backups, speed passes and small changes across the sites you already look after."
+    ],
+    [
+     "file-text",
+     "A handover your PM can use",
+     "What was built, where the fields live and what to tell the client, written down."
+    ]
+   ],
+   "needTitle": "How it works between us.",
+   "need": [
+    "You send the design file, the deadline and how your team likes to work",
+    "I reply with a fixed quote and a delivery date, or a realistic no",
+    "I build on your staging, or mine, and share progress in the channel you already use",
+    "Your team reviews, I revise, you present it to your client as yours",
+    "You get the build and a written handover. I never contact your client"
+   ],
+   "faq": [
+    [
+     "Will my client know you exist?",
+     "No. I work under your brand, in your accounts, and I never contact your client. Work I do for you stays out of my portfolio unless you say otherwise."
+    ],
+    [
+     "How do we communicate?",
+     "In whatever you already use: email, Slack, WhatsApp or your project tool. I am in Lahore, GMT+5, which overlaps a full Gulf working day, UK mornings and afternoons, and US mornings."
+    ],
+    [
+     "How do you charge?",
+     "Per project with a fixed quote. If you have steady overflow, tell me the volume and I will suggest an arrangement that makes sense for both of us."
+    ],
+    [
+     "What is your background?",
+     "Agency delivery from the start: Nuovo Studios from 2023, then Rozi Academy, where I still work, alongside direct clients in the UAE, UK and USA."
+    ],
+    [
+     "Which builders and tools do you work in?",
+     "Elementor Pro is my home, with ACF, custom post types, WooCommerce and custom PHP. I work from Figma or PSD files."
+    ]
+   ]
+  }
+ ]
+}
